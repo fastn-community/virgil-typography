@@ -1,6 +1,6 @@
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
--- import: fifthtry.github.io/package-doc/footer
+-- import: fastn-community.github.io/footer
 -- import: fastn-community.github.io/virgil-typography
 
 
@@ -13,6 +13,10 @@ site-name: `virgil-typography`
 -- ds.page.footer:
 
 -- footer.fastn-footer:
+copyright: Copyright © 2023 - [FifthTry](https://www.fifthtry.com/)
+site-logo: $footer.fastn-logo
+powered-by-text: Powered by
+powered-by-link: https://fastn.com/
 
 -- end: ds.page.footer
 
